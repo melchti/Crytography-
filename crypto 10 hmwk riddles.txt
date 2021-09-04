@@ -1,0 +1,26 @@
+#1 
+Gruber
+6skd8s
+
+#2
+Gennero
+cy8snd2
+
+#3
+takagi
+ud6s98n
+
+#4
+7gsn3nd2
+
+#5
+ajy39d2
+
+#6
+mcclane
+7skahd6
+
+openssl enc -aes-256-cbc -d -in /home/sysadmin/Downloads/mary-lamb.jpg > /home/sysadmin/Downloads/riddle5.txt
+
+
+openssl enc -pbkdf2 -nosalt -aes-256-cbc -in riddles.txt -out riddles.txt.enc -base64 -K 346B3EFB4B899E8205C4B35E91F5A4605A54F89730AE65CA2C43AB464E76CA99 -iv 759D1B9BF335985F55E3E9940E751B67
