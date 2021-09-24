@@ -1,7 +1,7 @@
 # Crytography-
 This assignment covers cryptography, steganography, SSL certificates, and cracking hashes with Hashcat.
 
-In this unit, I learn about cryptography, the art and science of keeping information secure using mathematical concepts and techniques.
+In this unit, I learned about cryptography, the art and science of keeping information secure using mathematical concepts and techniques.
 
 •	The first day I learned the history of cryptography, the difference between encyption and encoding, and how to use a tool called Open SSL to encrypt and decrypt a message.
 
